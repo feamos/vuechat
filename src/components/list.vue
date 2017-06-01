@@ -12,6 +12,7 @@ export default {
             },
             // 当前会话index
             currentId: ({ currentSessionId }) => currentSessionId
+            // 第一次
         }
     }
 };
